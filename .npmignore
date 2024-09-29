@@ -1,0 +1,49 @@
+# Development files
+.git
+.gitignore
+.eslintrc
+.prettierrc
+.editorconfig
+.vscode
+.idea
+*.log
+*.swp
+
+# Build and test directories
+node_modules
+coverage
+test
+tests
+__tests__
+*.test.js
+*.spec.js
+
+# Documentation and examples
+docs
+examples
+*.md
+!README.md
+
+# Configuration files
+.travis.yml
+.circleci
+.github
+.gitlab-ci.yml
+.npmrc
+.nvmrc
+.yarnrc
+bun.lockb
+
+# Source files (if you're publishing compiled code)
+src
+tsconfig.json
+tsup.config.ts
+webpack.config.js
+rollup.config.js
+
+# Miscellaneous
+.DS_Store
+Thumbs.db
+*.log
+*.tmp
+*.bak
