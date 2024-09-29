@@ -148,5 +148,5 @@ Cheers,
 
 ## Acknowledgments
 
--   [React](https://react.dev/) team for the cringetastic and unintuitive useContext API (ily guys)
+-   [React](https://react.dev/) team for the cringetastic and unintuitive useContext API (ily guys fr)
 -   All contributors and users of Kinetiq

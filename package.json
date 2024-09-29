@@ -25,10 +25,10 @@
     "keywords": [
         "react",
         "hooks",
-        "lifecycle",
-        "useEffect",
-        "onMounted",
-        "onUnmounted",
-        "onUpdated"
+        "state",
+        "state management",
+        "react context",
+        "useContext API",
+        "react global state"
     ]
 }
